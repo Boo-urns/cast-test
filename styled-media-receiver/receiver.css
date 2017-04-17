@@ -1,0 +1,34 @@
+/* IF CONTENT IS DRM you have to use a Custom Reciever (https://developers.google.com/cast/docs/custom_receiver) */
+
+/* Available Fonts on all Recivers
+ * https://developers.google.com/cast/docs/receiver_apps#fonts
+ ** Droid Sans, sans-serif
+ ** Droid Sans Mono, monospace
+ ** Droid Serif Regular, serif
+ ** Cutive Mono
+ ** Short Stack
+ ** Quintessential
+ ** Alegreya Sans SC
+*/
+
+/* https://developers.google.com/cast/docs/styled_receiver#css */
+.background {
+  background: url(images/black_mamba.png) 0 0 repeat;
+}
+
+.logo {
+  background-image: url(images/jslogo.png);
+}
+
+.progressBar {
+  background-color: rgb(238, 255, 65);
+}
+
+/*.splash {
+  background-image: url(splash.png);
+}
+
+.watermark {
+  background-image: url(watermark.png);
+  background-size: 57px 57px;
+}*/
