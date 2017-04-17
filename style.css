@@ -1,0 +1,4 @@
+button[is="google-cast-button"] {
+  --connected-color: #0069d2;
+  --disconnected-color: #5e5e5e;
+}
